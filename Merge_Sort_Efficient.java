@@ -46,3 +46,5 @@ public class Merge_Sort_Efficient {
         MergeSort(arr1, arr2);
     }
 }
+
+// O(m+n) Time
