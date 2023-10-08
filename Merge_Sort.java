@@ -44,3 +44,5 @@ public class Merge_Sort {
         // printArray(arr1,arr2);
     }
 }
+
+// Time complexity => O((m+n)log(m+n))    & Aux space => O(m+n).
